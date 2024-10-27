@@ -25,3 +25,5 @@ DO NOT SHUT DOWN THE TERMINAL/COMMAND LINE WHILST USING THE PROGRAM, IT WILL SHU
 HAVE FUN!!
 
 if it doesn't work - open terminal/command line - write "pip install keyboard" hit enter - try again
+
+if you wish to edit the code feel free to do so - i suggest visual studio code. 
