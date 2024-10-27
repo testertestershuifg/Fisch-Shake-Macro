@@ -24,3 +24,4 @@ DO NOT SHUT DOWN THE TERMINAL/COMMAND LINE WHILST USING THE PROGRAM, IT WILL SHU
 
 HAVE FUN!!
 
+if it doesn't work - open terminal/command line - write "pip install keyboard" hit enter - try again
