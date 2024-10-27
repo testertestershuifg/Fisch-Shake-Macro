@@ -39,7 +39,7 @@ def toggle_running(event=None):  # Event argument with default to None
 # Bind the `]` key to toggle the start/stop of the action
 keyboard.add_hotkey(']', toggle_running)
 
-# Run the press_keys function in a separate thread
+
 action_thread = threading.Thread(target=press_keys)
 action_thread.daemon = True
 action_thread.start()
